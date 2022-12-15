@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "986751969323",
+    "firebase_url": "https://sharecam-70d17-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sharecam-70d17",
+    "storage_bucket": "sharecam-70d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986751969323:android:2eae347ad8648d4d4fa26e",
+        "android_client_info": {
+          "package_name": "com.share_cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986751969323-i2t0fmr7i03a38davcusjiuh37ibkpuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.share_cam",
+            "certificate_hash": "de65d5c3c3711ec265866d3f6c263140605014fe"
+          }
+        },
+        {
+          "client_id": "986751969323-d1qorr3ddsgdvt1nodb10n6grbeq5di1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvtxCsnZy4FzdmITJ2Uxk2a1ko9UKc60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986751969323-d1qorr3ddsgdvt1nodb10n6grbeq5di1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986751969323:android:6c9373a0f40333824fa26e",
+        "android_client_info": {
+          "package_name": "com.sharecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986751969323-d1qorr3ddsgdvt1nodb10n6grbeq5di1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvtxCsnZy4FzdmITJ2Uxk2a1ko9UKc60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986751969323-d1qorr3ddsgdvt1nodb10n6grbeq5di1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

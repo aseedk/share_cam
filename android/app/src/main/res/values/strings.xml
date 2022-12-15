@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">share_cam</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXNlZWRrIiwiYSI6ImNremF6MTN4YTA4NTEydW50cmxnYmRodnIifQ.CZl7Mza55vy7J8tYdy4eyg</string>
+</resources>
